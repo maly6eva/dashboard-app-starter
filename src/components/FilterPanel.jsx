@@ -12,7 +12,6 @@ const FilterPanel = () => {
           <Badge variant="clearable">Backend</Badge>
           <Badge variant="clearable">React</Badge>
         </Stack>
-
         <button className='link'>Clear</button>
       </div>
     </Card>

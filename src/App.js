@@ -21,6 +21,7 @@ function App() {
   return (
     <>
      <TheHeader />
+        <h2>KSENIA</h2>
      <div className='container'>
       <FilterPanel />
       <JobList />
